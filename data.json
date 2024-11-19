@@ -1,0 +1,63 @@
+{
+  "users": {
+    "483551982104346625": {
+      "collection": [
+        {
+          "name": "Carte Commune 1",
+          "rarity": "Commune"
+        },
+        {
+          "name": "Carte Légendaire 1",
+          "rarity": "Légendaire",
+          "image": "https://exemple.com/carte_legendaire_1.png"
+        },
+        {
+          "name": "Carte Légendaire 1",
+          "rarity": "Légendaire",
+          "image": "C:UsersUtilisateurPinkCollectimgClaquette derank.png"
+        },
+        {
+          "name": "Carte Commune 2",
+          "rarity": "Commune",
+          "image": "C:\\Users\\Utilisateur\\PinkCollect\\img\\Claquette derank.png"
+        },
+        {
+          "name": "Carte Épique 1",
+          "rarity": "Épique",
+          "image": "C:\\Users\\Utilisateur\\PinkCollect\\img\\Claquette derank.png"
+        },
+        {
+          "name": "Carte Commune 1",
+          "rarity": "Commune",
+          "image": "C:\\Users\\Utilisateur\\PinkCollect\\img\\Claquette derank.png"
+        },
+        {
+          "name": "Carte Rare 1",
+          "rarity": "Rare",
+          "image": "C:\\Users\\Utilisateur\\PinkCollect\\img\\Claquette derank.png"
+        },
+        {
+          "name": "Carte Épique 1",
+          "rarity": "Épique",
+          "image": "C:\\Users\\Utilisateur\\PinkCollect\\img\\Claquette derank.png"
+        }
+      ],
+      "cooldown": 1732066509146
+    },
+    "310317481111584778": {
+      "collection": [
+        {
+          "name": "Carte Holo 1",
+          "rarity": "Holographique",
+          "image": "C:\\Users\\Utilisateur\\PinkCollect\\img\\Claquette derank.png"
+        },
+        {
+          "name": "Carte Légendaire 1",
+          "rarity": "Légendaire",
+          "image": "C:\\Users\\Utilisateur\\PinkCollect\\img\\Claquette derank.png"
+        }
+      ],
+      "cooldown": 0
+    }
+  }
+}
