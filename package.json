@@ -2,15 +2,15 @@
     "name": "discord-bot",
     "version": "1.0.0",
     "description": "Un bot Discord",
-    "main": "./index.js",  
+    "main": "./dist/index.js",
     "scripts": {
-      "start": "node index.js" 
+        "start": "node ./dist/index.js"
     },
     "dependencies": {
-      "discord.js": "^14.0.0",
-      "dotenv": "^16.0.0",
-      "ms": "^2.1.3"
+        "discord.js": "^14.16.3",
+        "dotenv": "^16.4.5",
+        "ms": "^2.1.3"
     },
     "author": "",
     "license": "ISC"
-  }
+}
